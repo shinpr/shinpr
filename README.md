@@ -40,7 +40,7 @@ Sharing learnings on Dev.to and other platforms.
 
 | Stats | Activity |
 |-------|----------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinpr&show_icons=true&theme=default) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shinpr&theme=github-compact) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinpr&show_icons=true&theme=default) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shinpr&theme=github-compact&height=200) |
 
 </div>
 
