@@ -38,9 +38,9 @@ Sharing learnings on Dev.to and other platforms.
 
 <div align="center">
 
-| Stats | Streak |
-|-------|--------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinpr&show_icons=true&theme=default) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinpr&theme=default) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinpr&show_icons=true&theme=default)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shinpr&theme=github-compact)
 
 </div>
 
