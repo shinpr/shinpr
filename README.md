@@ -38,9 +38,9 @@ Sharing learnings on Dev.to and other platforms.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinpr&show_icons=true&theme=default)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shinpr&theme=github-compact)
+| Stats | Activity |
+|-------|----------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinpr&show_icons=true&theme=default) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shinpr&theme=github-compact) |
 
 </div>
 
