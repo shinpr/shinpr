@@ -27,7 +27,7 @@ Sharing learnings on Dev.to and other platforms.
 ![Claude](https://img.shields.io/badge/-Claude-8B5CF6?style=flat&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 **Development Tools**
