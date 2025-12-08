@@ -40,7 +40,7 @@ Sharing learnings on Dev.to and other platforms.
 
 | Stats | Activity |
 |-------|----------|
-| ![GitHub Stats](./metrics-stats.svg) | ![Activity](./metrics-activity.svg) |
+| ![GitHub Stats](https://github-readme-stats-ten-neon-64.vercel.app/api?username=shinpr&show_icons=true&theme=default) | <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinpr&theme=github-compact" width="500"> |
 
 </div>
 
