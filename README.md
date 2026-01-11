@@ -11,7 +11,7 @@ AI-native workflows beyond software development.
 Through ongoing personal projects, delivering tools grounded in actual practice
 rather than speculation.
 
-Sharing learnings on Substack and other platforms.
+Sharing learnings on Dev.to and other platforms.
 
 ### Tech Stack
 
@@ -45,4 +45,4 @@ Sharing learnings on Substack and other platforms.
 </div>
 
 [![Twitter/X](https://img.shields.io/badge/-@shinpr__p-000?style=flat&logo=x)](https://x.com/shinpr_p)
-[![Substack](https://img.shields.io/badge/-shinpr-FF6719?style=flat&logo=substack&logoColor=white)](https://shinpr.substack.com/)
+[![Dev.to](https://img.shields.io/badge/-shinpr-0A0A0A?style=flat&logo=dev.to)](https://dev.to/shinpr)
