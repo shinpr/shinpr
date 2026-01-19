@@ -11,7 +11,9 @@ AI-native workflows beyond software development.
 Through ongoing personal projects, delivering tools grounded in actual practice
 rather than speculation.
 
-Sharing learnings on Dev.to and other platforms.
+Sharing learnings through writing.
+
+Latest: [Stop Putting Everything in AGENTS.md](https://www.norsica.jp/blog/stop-putting-everything-in-agents-md)
 
 ### Tech Stack
 
