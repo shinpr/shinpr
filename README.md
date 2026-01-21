@@ -13,7 +13,7 @@ rather than speculation.
 
 Sharing learnings through writing.
 
-Latest: [Stop Putting Everything in AGENTS.md](https://www.norsica.jp/blog/stop-putting-everything-in-agents-md)
+Latest: [The Leadership Bottleneck in AI-Native Development](https://www.norsica.jp/blog/leadership-bottleneck-ai-native-development)
 
 ### Tech Stack
 
