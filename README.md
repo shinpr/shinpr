@@ -13,7 +13,7 @@ rather than speculation.
 
 Sharing learnings through writing.
 
-Latest: [The Leadership Bottleneck in AI-Native Development](https://www.norsica.jp/blog/leadership-bottleneck-ai-native-development)
+Latest: [Planning Is the Real Superpower of Agentic Coding](https://www.norsica.jp/blog/planning-superpower-agentic-coding)
 
 ### Tech Stack
 
