@@ -13,7 +13,7 @@ rather than speculation.
 
 Sharing learnings through writing.
 
-Latest: [Planning Is the Real Superpower of Agentic Coding](https://www.norsica.jp/blog/planning-superpower-agentic-coding)
+Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-makes-development-ai-native)
 
 ### Tech Stack
 
