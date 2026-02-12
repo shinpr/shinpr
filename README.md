@@ -15,6 +15,30 @@ Sharing learnings through writing.
 
 Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-makes-development-ai-native)
 
+### Projects
+
+**🛠 Agentic Development Frameworks**
+
+- [claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready dev workflows for Claude Code with specialized agents
+- [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - TypeScript scaffolding optimized for Claude Code sub-agents and skills
+- [agentic-code](https://github.com/shinpr/agentic-code) - Tool-agnostic AI-assisted development framework built on AGENTS.md
+
+**🔌 MCP Servers**
+
+- [mcp-local-rag](https://github.com/shinpr/mcp-local-rag) - Fully local RAG server for semantic + keyword search on code and docs
+- [mcp-image](https://github.com/shinpr/mcp-image) - AI image generation and editing powered by Gemini
+- [sub-agents-mcp](https://github.com/shinpr/sub-agents-mcp) - Define and run task-specific sub-agents via MCP
+
+**🧰 Utilities**
+
+- [metronome](https://github.com/shinpr/metronome) - Claude Code hook that prevents bulk operations on repetitive tasks
+- [rashomon](https://github.com/shinpr/rashomon) - Evidence-based prompt optimization with parallel comparison
+- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Lightweight sub-agents via skill files, no MCP server needed
+
+**💼 Business**
+
+- [ai-business-planner](https://github.com/shinpr/ai-business-planner) - Market research to pitch deck in one AI-guided workflow
+
 ### Tech Stack
 
 **Languages**
