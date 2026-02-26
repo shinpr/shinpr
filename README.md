@@ -20,7 +20,7 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 **🛠 Agentic Development Frameworks**
 
 - [claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready dev workflows for Claude Code with specialized agents
-- [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - TypeScript scaffolding optimized for Claude Code sub-agents and skills
+- [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - Agentic coding starter kit for TypeScript with sub-agents, skills, and context engineering
 - [agentic-code](https://github.com/shinpr/agentic-code) - Tool-agnostic AI-assisted development framework built on AGENTS.md
 
 **🔌 MCP Servers**
@@ -33,7 +33,7 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 
 - [metronome](https://github.com/shinpr/metronome) - Claude Code hook that prevents bulk operations on repetitive tasks
 - [rashomon](https://github.com/shinpr/rashomon) - Evidence-based prompt optimization with parallel comparison
-- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Lightweight sub-agents via skill files, no MCP server needed
+- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Orchestrate any LLM as a sub-agent from any AI coding tool
 
 **💼 Business**
 
