@@ -24,7 +24,6 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 - [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - Agentic coding starter kit for TypeScript with sub-agents, skills, and context engineering
 - [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Product discovery workflows for Claude Code — from hypotheses to validated PRDs
 - [nautilus](https://github.com/shinpr/nautilus) - AI-native product discovery for Cursor — hypothesis to PRD, all in your repo
-- [agentic-code](https://github.com/shinpr/agentic-code) - Tool-agnostic AI-assisted development framework built on AGENTS.md
 
 **🔌 MCP Servers**
 
