@@ -1,7 +1,7 @@
 ## shinpr
 
 ### About
-Pursuing deep expertise in agentic coding and the LLM ecosystem.
+Deep expertise in agentic coding and the LLM ecosystem.
 
 Building workflow tools and utilities through hands-on agentic development -
 fully delegating to coding agents, addressing real-world challenges as they arise,
@@ -19,23 +19,23 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 
 **🛠 Agentic Development Frameworks**
 
-- [claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Production-ready dev workflows for Claude Code with specialized agents
-- [codex-workflows](https://github.com/shinpr/codex-workflows) - Production-ready dev workflows for Codex CLI with specialized agents
+- [claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - End-to-end dev workflows for Claude Code — plugin install, ready to go
+- [codex-workflows](https://github.com/shinpr/codex-workflows) - End-to-end dev workflows for Codex CLI — npx install, ready to go
 - [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - Agentic coding starter kit for TypeScript with sub-agents, skills, and context engineering
-- [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Product discovery workflows for Claude Code — from hypotheses to validated PRDs
-- [nautilus](https://github.com/shinpr/nautilus) - AI-native product discovery for Cursor — hypothesis to PRD, all in your repo
+- [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Product discovery plugin for Claude Code — hypotheses to evidence-backed PRDs, right in your repo
+- [nautilus](https://github.com/shinpr/nautilus) - Product discovery for Cursor — hypotheses to PRDs, prototypes via v0/Lovable
 
 **🔌 MCP Servers**
 
 - [mcp-local-rag](https://github.com/shinpr/mcp-local-rag) - Fully local RAG server for semantic + keyword search on code and docs
-- [mcp-image](https://github.com/shinpr/mcp-image) - AI image generation and editing powered by Gemini
-- [sub-agents-mcp](https://github.com/shinpr/sub-agents-mcp) - Define and run task-specific sub-agents via MCP
+- [mcp-image](https://github.com/shinpr/mcp-image) - MCP server for Gemini image generation — auto-refines your prompt for higher quality output
+- [sub-agents-mcp](https://github.com/shinpr/sub-agents-mcp) - MCP server that adds sub-agent capabilities to any MCP-compatible tool
 
 **🧰 Utilities**
 
-- [metronome](https://github.com/shinpr/metronome) - Claude Code hook that prevents bulk operations on repetitive tasks
-- [rashomon](https://github.com/shinpr/rashomon) - Evidence-based prompt optimization with parallel comparison
-- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Orchestrate any LLM as a sub-agent from any AI coding tool
+- [metronome](https://github.com/shinpr/metronome) - Claude Code plugin that catches shortcut-taking behavior and keeps Claude working step by step
+- [rashomon](https://github.com/shinpr/rashomon) - Claude Code plugin for prompt and skill optimization — A/B comparison with evidence, not vibes
+- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Cross-LLM sub-agents as portable skill files — mix Codex, Claude, Gemini per task
 
 **💼 Business**
 
