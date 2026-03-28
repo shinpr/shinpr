@@ -28,7 +28,7 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 **🔌 MCP Servers**
 
 - [mcp-local-rag](https://github.com/shinpr/mcp-local-rag) - Fully local RAG server for semantic + keyword search on code and docs
-- [mcp-image](https://github.com/shinpr/mcp-image) - MCP server for Gemini image generation — auto-refines your prompt for higher quality output
+- [mcp-image](https://github.com/shinpr/mcp-image) - MCP server for Nano Banana image generation — auto-refines your prompt for higher quality output
 - [sub-agents-mcp](https://github.com/shinpr/sub-agents-mcp) - MCP server that adds sub-agent capabilities to any MCP-compatible tool
 
 **🧰 Utilities**
