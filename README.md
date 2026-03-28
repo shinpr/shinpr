@@ -22,7 +22,7 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 - [claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - End-to-end dev workflows for Claude Code — plugin install, ready to go
 - [codex-workflows](https://github.com/shinpr/codex-workflows) - End-to-end dev workflows for Codex CLI — npx install, ready to go
 - [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - Agentic coding starter kit for TypeScript with sub-agents, skills, and context engineering
-- [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Product discovery plugin for Claude Code — hypotheses to evidence-backed PRDs, right in your repo
+- [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Claude Code plugin for figuring out what's worth building — discovery context lives in your repo
 - [nautilus](https://github.com/shinpr/nautilus) - Product discovery for Cursor — hypotheses to PRDs, prototypes via v0/Lovable
 
 **🔌 MCP Servers**
