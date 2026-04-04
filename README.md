@@ -23,6 +23,7 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 - [codex-workflows](https://github.com/shinpr/codex-workflows) - End-to-end dev workflows for Codex CLI — npx install, ready to go
 - [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - Agentic coding starter kit for TypeScript with sub-agents, skills, and context engineering
 - [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Claude Code plugin for figuring out what's worth building — discovery context lives in your repo
+- [linear-prism](https://github.com/shinpr/linear-prism) - Decompose requirements into Linear tasks via Claude Code/Codex — validates before decomposing, registers with dependencies
 - [nautilus](https://github.com/shinpr/nautilus) - Product discovery for Cursor — hypotheses to PRDs, prototypes via v0/Lovable
 
 **🔌 MCP Servers**
