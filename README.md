@@ -58,14 +58,14 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 **AI & Automation**
 
 ![Claude](https://img.shields.io/badge/-Claude-8B5CF6?style=flat&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?style=flat&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?style=flat)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 **Development Tools**
 
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-8B5CF6?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-412991?style=flat)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
