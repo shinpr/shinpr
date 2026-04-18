@@ -38,10 +38,6 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 - [rashomon](https://github.com/shinpr/rashomon) - Claude Code plugin for prompt and skill optimization — A/B comparison with evidence, not vibes
 - [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Cross-LLM sub-agents as portable skill files — mix Codex, Claude, Gemini per task
 
-**💼 Business**
-
-- [ai-business-planner](https://github.com/shinpr/ai-business-planner) - Market research to pitch deck in one AI-guided workflow
-
 **📋 Awesome Lists**
 
 - [awesome-codex-workflows](https://github.com/shinpr/awesome-codex-workflows) - Opinionated list of Codex workflow repos where the design is visible in code and config
