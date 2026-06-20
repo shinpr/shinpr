@@ -3,7 +3,7 @@
 ### About
 Deep expertise in agentic coding and the LLM ecosystem.
 
-Building workflow tools and utilities through hands-on agentic development -
+Building workflow tools and utilities through hands-on agentic development,
 fully delegating to coding agents, addressing real-world challenges as they arise,
 and transforming those insights into practical solutions. Also working on
 AI-native workflows beyond software development.
@@ -19,25 +19,26 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 
 **🛠 Agentic Development Frameworks**
 
-- [claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - End-to-end dev workflows for Claude Code — plugin install, ready to go
-- [codex-workflows](https://github.com/shinpr/codex-workflows) - End-to-end dev workflows for Codex CLI — npx install, ready to go
-- [galley](https://github.com/shinpr/galley) - Local orchestration runtime for supervised Claude Code/Codex task execution — keeps work in git, records evidence for review
+- [claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - End-to-end dev workflows for Claude Code: plugin install, ready to go
+- [codex-workflows](https://github.com/shinpr/codex-workflows) - End-to-end dev workflows for Codex CLI: npx install, ready to go
+- [galley](https://github.com/shinpr/galley) - Local orchestration runtime for supervised Claude Code/Codex task execution that keeps work in git and records evidence for review
 - [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - Agentic coding starter kit for TypeScript with sub-agents, skills, and context engineering
-- [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Claude Code plugin for figuring out what's worth building — discovery context lives in your repo
-- [linear-prism](https://github.com/shinpr/linear-prism) - Decompose requirements into Linear tasks via Claude Code/Codex — validates before decomposing, registers with dependencies
-- [nautilus](https://github.com/shinpr/nautilus) - Product discovery for Cursor — hypotheses to PRDs, prototypes via v0/Lovable
+- [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Claude Code plugin for figuring out what's worth building, with discovery context that lives in your repo
+- [linear-prism](https://github.com/shinpr/linear-prism) - Decompose requirements into Linear tasks via Claude Code/Codex. Validates before decomposing, registers with dependencies
+- [nautilus](https://github.com/shinpr/nautilus) - Product discovery for Cursor: hypotheses to PRDs, prototypes via v0/Lovable
 
 **🔌 MCP Servers**
 
 - [mcp-local-rag](https://github.com/shinpr/mcp-local-rag) - Fully local RAG server for semantic + keyword search on code and docs
-- [mcp-image](https://github.com/shinpr/mcp-image) - MCP server for Nano Banana image generation — auto-refines your prompt for higher quality output
+- [mcp-image](https://github.com/shinpr/mcp-image) - MCP server for Nano Banana image generation that auto-refines your prompt for higher quality output
 - [sub-agents-mcp](https://github.com/shinpr/sub-agents-mcp) - MCP server that adds sub-agent capabilities to any MCP-compatible tool
 
 **🧰 Utilities**
 
 - [metronome](https://github.com/shinpr/metronome) - Claude Code plugin that catches shortcut-taking behavior and keeps Claude working step by step
-- [rashomon](https://github.com/shinpr/rashomon) - Claude Code plugin for prompt and skill optimization — A/B comparison with evidence, not vibes
-- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Cross-LLM sub-agents as portable skill files — mix Codex, Claude, Gemini per task
+- [pr-review-skill](https://github.com/shinpr/pr-review-skill) - Claude Code/Codex plugin for reviewing GitHub PRs. Externalizes review criteria as repo-derived context, then converges divergent findings into one structured result
+- [rashomon](https://github.com/shinpr/rashomon) - Claude Code plugin for prompt and skill optimization: A/B comparison with evidence, not vibes
+- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Cross-LLM sub-agents as portable skill files: mix Codex, Claude, Gemini per task
 
 **📋 Awesome Lists**
 
