@@ -21,7 +21,7 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 
 - [claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - End-to-end dev workflows for Claude Code: plugin install, ready to go
 - [codex-workflows](https://github.com/shinpr/codex-workflows) - End-to-end dev workflows for Codex CLI: npx install, ready to go
-- [galley](https://github.com/shinpr/galley) - Local orchestration runtime for supervised Claude Code/Codex task execution that keeps work in git and records evidence for review
+- [galley](https://github.com/shinpr/galley) - Local orchestration runtime for supervised Claude Code, Codex, and GLM task execution that keeps work in git and records evidence for review
 - [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - Agentic coding starter kit for TypeScript with sub-agents, skills, and context engineering
 - [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Claude Code plugin for figuring out what's worth building, with discovery context that lives in your repo
 - [linear-prism](https://github.com/shinpr/linear-prism) - Decompose requirements into Linear tasks via Claude Code/Codex. Validates before decomposing, registers with dependencies
@@ -38,7 +38,7 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 - [metronome](https://github.com/shinpr/metronome) - Claude Code plugin that catches shortcut-taking behavior and keeps Claude working step by step
 - [pr-review-skill](https://github.com/shinpr/pr-review-skill) - Claude Code/Codex plugin for reviewing GitHub PRs. Externalizes review criteria as repo-derived context, then converges divergent findings into one structured result
 - [rashomon](https://github.com/shinpr/rashomon) - Claude Code plugin for prompt and skill optimization: A/B comparison with evidence, not vibes
-- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Cross-LLM sub-agents as portable skill files: mix Codex, Claude, Gemini per task
+- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Cross-LLM sub-agents as portable task-executor skills: mix Codex, Claude, Gemini, and GLM per task
 
 **📋 Awesome Lists**
 
