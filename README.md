@@ -38,7 +38,7 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 - [metronome](https://github.com/shinpr/metronome) - Claude Code plugin that catches shortcut-taking behavior and keeps Claude working step by step
 - [pr-review-skill](https://github.com/shinpr/pr-review-skill) - Claude Code/Codex plugin for reviewing GitHub PRs. Externalizes review criteria as repo-derived context, then converges divergent findings into one structured result
 - [rashomon](https://github.com/shinpr/rashomon) - Claude Code plugin for prompt and skill optimization: A/B comparison with evidence, not vibes
-- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Cross-LLM sub-agents as portable task-executor skills: mix Codex, Claude, Gemini, and GLM per task
+- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Cross-LLM sub-agents as portable task-executor skills: mix Codex, Claude, OpenCode, Grok, GLM, and Gemini per task
 
 **📋 Awesome Lists**
 
