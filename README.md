@@ -21,6 +21,7 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 
 - [claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - End-to-end dev workflows for Claude Code: plugin install, ready to go
 - [codex-workflows](https://github.com/shinpr/codex-workflows) - End-to-end dev workflows for Codex CLI: npx install, ready to go
+- [grok-workflows](https://github.com/shinpr/grok-workflows) - Run claude-code-workflows on Grok with a small runtime-mapping skill: plugin install, ready to go
 - [galley](https://github.com/shinpr/galley) - Local orchestration runtime for supervised Claude Code, Codex, and GLM task execution that keeps work in git and records evidence for review
 - [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - Agentic coding starter kit for TypeScript with sub-agents, skills, and context engineering
 - [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Claude Code plugin for figuring out what's worth building, with discovery context that lives in your repo
