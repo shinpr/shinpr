@@ -70,9 +70,10 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 
 <div align="center">
 
-| Stats | Activity |
-|-------|----------|
-| ![GitHub Stats](https://github-readme-stats-ten-neon-64.vercel.app/api?username=shinpr&show_icons=true&theme=default) | <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinpr&theme=github-compact" width="500"> |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg">
+  <img alt="GitHub activity summary" src="./profile/signal-field-wide-light.svg" width="640">
+</picture>
 
 </div>
 
