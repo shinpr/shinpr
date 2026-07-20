@@ -36,6 +36,7 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 
 **🧰 Utilities**
 
+- [github-profile-stats](https://github.com/shinpr/github-profile-stats) - Zero-runtime-dependency GitHub Action for repository-owned SVG profile cards with full-year contributions and public metrics
 - [metronome](https://github.com/shinpr/metronome) - Claude Code plugin that catches shortcut-taking behavior and keeps Claude working step by step
 - [pr-review-skill](https://github.com/shinpr/pr-review-skill) - Claude Code/Codex plugin for reviewing GitHub PRs. Externalizes review criteria as repo-derived context, then converges divergent findings into one structured result
 - [rashomon](https://github.com/shinpr/rashomon) - Claude Code plugin for prompt and skill optimization: A/B comparison with evidence, not vibes
