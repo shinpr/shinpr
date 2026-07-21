@@ -3,7 +3,8 @@ name: Update profile stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 3 * * *'
+    - cron: '15 3 * * *'
+      timezone: 'Asia/Tokyo'
 
 permissions:
   contents: write
