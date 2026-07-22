@@ -18,23 +18,35 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
-      - uses: shinpr/github-profile-stats@d4fc303c8ccf3510e7daf799c79136dfe35529f0 # v0.1.0
-        id: stats
+      - uses: shinpr/github-profile-stats@49b5f7091182a45f3ef93923505b660c6da5f835 # v0.2.0
+        id: signal-field
         with:
           username: shinpr
           token: ${{ github.token }}
-          theme: signal-field
-      - name: Stage complete artifact set
+          profile: signal-field
+      - uses: shinpr/github-profile-stats@49b5f7091182a45f3ef93923505b660c6da5f835 # v0.2.0
+        id: language-composition
+        with:
+          username: shinpr
+          token: ${{ github.token }}
+          profile: language-composition
+      - name: Stage complete artifact sets
         env:
-          READY_DIR: ${{ steps.stats.outputs.ready-dir }}
+          SIGNAL_FIELD_READY_DIR: ${{ steps.signal-field.outputs.ready-dir }}
+          LANGUAGE_COMPOSITION_READY_DIR: ${{ steps.language-composition.outputs.ready-dir }}
         run: |
           mkdir -p profile
-          cp "$READY_DIR"/signal-field-*.svg profile/
+          cp "$SIGNAL_FIELD_READY_DIR"/signal-field-*.svg profile/
+          cp "$LANGUAGE_COMPOSITION_READY_DIR"/language-composition-*.svg profile/
           test -s profile/signal-field-wide-light.svg
           test -s profile/signal-field-wide-dark.svg
           test -s profile/signal-field-compact-light.svg
           test -s profile/signal-field-compact-dark.svg
-          git add profile/signal-field-*.svg
+          test -s profile/language-composition-wide-light.svg
+          test -s profile/language-composition-wide-dark.svg
+          test -s profile/language-composition-compact-light.svg
+          test -s profile/language-composition-compact-dark.svg
+          git add profile/signal-field-*.svg profile/language-composition-*.svg
       - name: Publish changed artifact set
         run: |
           if git diff --cached --quiet; then

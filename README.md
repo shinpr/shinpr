@@ -46,34 +46,16 @@ Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-mak
 
 - [awesome-codex-workflows](https://github.com/shinpr/awesome-codex-workflows) - Opinionated list of Codex workflow repos where the design is visible in code and config
 
-### Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**AI & Automation**
-
-![Claude](https://img.shields.io/badge/-Claude-8B5CF6?style=flat&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?style=flat)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-000000?style=flat)
-
-**Development Tools**
-
-![Claude Code](https://img.shields.io/badge/-Claude_Code-8B5CF6?style=flat&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-412991?style=flat)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+### GitHub Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg">
-  <img alt="GitHub activity summary" src="./profile/signal-field-wide-light.svg" width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-compact-dark.svg">
+  <img alt="GitHub activity summary" src="./profile/signal-field-compact-light.svg" width="316">
+</picture>&nbsp;<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/language-composition-compact-dark.svg">
+  <img alt="GitHub language composition" src="./profile/language-composition-compact-light.svg" width="316">
 </picture>
 
 </div>
