@@ -13,7 +13,7 @@ rather than speculation.
 
 Sharing learnings through writing.
 
-Latest: [What Makes Development AI-Native?](https://www.norsica.jp/blog/what-makes-development-ai-native)
+Latest: [When Better Models Make Old Agent Workflows Worse](https://www.norsica.jp/blog/when-better-models-make-old-agent-workflows-worse)
 
 ### Projects
 
