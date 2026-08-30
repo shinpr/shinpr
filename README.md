@@ -19,32 +19,32 @@ Latest: [When Better Models Make Old Agent Workflows Worse](https://www.norsica.
 
 **🛠 Agentic Development Frameworks**
 
-- [claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - End-to-end dev workflows for Claude Code: plugin install, ready to go
-- [codex-workflows](https://github.com/shinpr/codex-workflows) - End-to-end dev workflows for Codex CLI: npx install, ready to go
-- [grok-workflows](https://github.com/shinpr/grok-workflows) - Run claude-code-workflows on Grok with a small runtime-mapping skill: plugin install, ready to go
-- [galley](https://github.com/shinpr/galley) - Local orchestration runtime for supervised Claude Code, Codex, Grok, and GLM task execution that keeps work in git and records evidence for review
-- [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - Agentic coding starter kit for TypeScript with sub-agents, skills, and context engineering
-- [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Claude Code plugin for figuring out what's worth building, with discovery context that lives in your repo
-- [linear-prism](https://github.com/shinpr/linear-prism) - Decompose requirements into Linear tasks via Claude Code/Codex. Validates before decomposing, registers with dependencies
-- [nautilus](https://github.com/shinpr/nautilus) - Product discovery for Cursor: hypotheses to PRDs, prototypes via v0/Lovable
+- [claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Keeps Claude Code focused on the result you agreed on, even when complex work uncovers tempting side issues
+- [codex-workflows](https://github.com/shinpr/codex-workflows) - Keeps Codex from turning a focused request into extra features, settings, and complexity while still delivering what you asked for
+- [grok-workflows](https://github.com/shinpr/grok-workflows) - Use claude-code-workflows on Grok without maintaining a separate copy of its design, implementation, and review workflows
+- [galley](https://github.com/shinpr/galley) - Makes lower-cost or specialized coding models practical by pairing them with independent supervision and review-ready PRs
+- [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - Start a TypeScript project with a Claude Code setup your team can version, share, and use from design through verification
+- [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Helps you decide what to build by testing the assumptions that matter, then carries the evidence into an implementation-ready PRD
+- [linear-prism](https://github.com/shinpr/linear-prism) - Turns requirements into a small set of Linear tasks that people or coding agents can pick up and verify independently
+- [nautilus](https://github.com/shinpr/nautilus) - Keeps product discovery context in your repo as you move from rough questions to prototypes and evidence-backed PRDs in Cursor or Codex
 
 **🔌 MCP Servers**
 
-- [mcp-local-rag](https://github.com/shinpr/mcp-local-rag) - Fully local RAG server for semantic + keyword search on code and docs
-- [mcp-image](https://github.com/shinpr/mcp-image) - MCP server for Nano Banana image generation that auto-refines your prompt for higher quality output
-- [sub-agents-mcp](https://github.com/shinpr/sub-agents-mcp) - MCP server that adds sub-agent capabilities to any MCP-compatible tool
+- [mcp-local-rag](https://github.com/shinpr/mcp-local-rag) - Search private documents without sending them to an embedding service, while still finding related ideas and exact technical terms
+- [mcp-image](https://github.com/shinpr/mcp-image) - Turns rough image requests into stronger prompts without losing your intent, then generates or edits the result
+- [sub-agents-mcp](https://github.com/shinpr/sub-agents-mcp) - Run reusable task-specific agents from any MCP client, using the coding backend you choose
 
 **🧰 Utilities**
 
-- [github-profile-stats](https://github.com/shinpr/github-profile-stats) - Zero-runtime-dependency GitHub Action for repository-owned SVG profile cards with full-year contributions and public metrics
+- [github-profile-stats](https://github.com/shinpr/github-profile-stats) - Publish GitHub profile cards from your own repository, with no hosted renderer to depend on
 - [metronome](https://github.com/shinpr/metronome) - Claude Code plugin that catches shortcut-taking behavior and keeps Claude working step by step
-- [pr-review-skill](https://github.com/shinpr/pr-review-skill) - Claude Code/Codex plugin for reviewing GitHub PRs. Externalizes review criteria as repo-derived context, then converges divergent findings into one structured result
-- [rashomon](https://github.com/shinpr/rashomon) - Claude Code plugin for prompt and skill optimization: A/B comparison with evidence, not vibes
-- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Cross-LLM sub-agents as portable task-executor skills: mix Codex, Claude, OpenCode, Grok, GLM, and Gemini per task
+- [pr-review-skill](https://github.com/shinpr/pr-review-skill) - Gives every reviewer the same complete PR snapshot, then lets you approve findings before they are posted
+- [rashomon](https://github.com/shinpr/rashomon) - Tests whether a prompt or skill actually improves agent behavior before you ship it
+- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Build reusable custom agents using 10+ AI coding options, including Codex, Claude, GLM, Kimi, and OpenCode, with the model and effort tuned for each role
 
 **📋 Awesome Lists**
 
-- [awesome-codex-workflows](https://github.com/shinpr/awesome-codex-workflows) - Opinionated list of Codex workflow repos where the design is visible in code and config
+- [awesome-codex-workflows](https://github.com/shinpr/awesome-codex-workflows) - Find Codex workflow projects whose real design is visible in code, configuration, or runtime behavior
 
 ### GitHub Stats
 
