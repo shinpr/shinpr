@@ -26,7 +26,7 @@ Latest: [When Better Models Make Old Agent Workflows Worse](https://www.norsica.
 - [ai-coding-project-boilerplate](https://github.com/shinpr/ai-coding-project-boilerplate) - Start a TypeScript project with a Claude Code setup your team can version, share, and use from design through verification
 - [claude-code-discover](https://github.com/shinpr/claude-code-discover) - Helps you decide what to build by testing the assumptions that matter, then carries the evidence into an implementation-ready PRD
 - [linear-prism](https://github.com/shinpr/linear-prism) - Turns requirements into a small set of Linear tasks that people or coding agents can pick up and verify independently
-- [nautilus](https://github.com/shinpr/nautilus) - Keeps product discovery context in your repo as you move from rough questions to prototypes and evidence-backed PRDs in Cursor or Codex
+- [nautilus](https://github.com/shinpr/nautilus) - Keeps product discovery context in your repo as you move from rough questions to prototypes and evidence-backed PRDs in Cursor, Codex, or OpenCode
 
 **🔌 MCP Servers**
 
