@@ -36,6 +36,7 @@ Latest: [When Better Models Make Old Agent Workflows Worse](https://www.norsica.
 
 **🧰 Utilities**
 
+- [codex-subagent-playbook](https://github.com/shinpr/codex-subagent-playbook) - Helps Codex choose the right model for each subagent, wait for it to finish, and check the result before moving on
 - [github-profile-stats](https://github.com/shinpr/github-profile-stats) - Publish GitHub profile cards from your own repository, with no hosted renderer to depend on
 - [metronome](https://github.com/shinpr/metronome) - Claude Code plugin that catches shortcut-taking behavior and keeps Claude working step by step
 - [pr-review-skill](https://github.com/shinpr/pr-review-skill) - Gives every reviewer the same complete PR snapshot, then lets you approve findings before they are posted
