@@ -39,6 +39,7 @@ Latest: [What Retrieval Still Hasn't Decided](https://www.norsica.jp/blog/what-r
 - [agent-clinic](https://github.com/shinpr/agent-clinic) - Tells you why a Claude Code or Codex session went wrong, and which of your own rules or requests to change
 - [codex-subagent-playbook](https://github.com/shinpr/codex-subagent-playbook) - Helps Codex choose the right model for each subagent, wait for it to finish, and check the result before moving on
 - [github-profile-stats](https://github.com/shinpr/github-profile-stats) - Publish GitHub profile cards from your own repository, with no hosted renderer to depend on
+- [jev-reranker](https://github.com/shinpr/jev-reranker) - Decide which of a search command's results reach your LLM: reorder them, drop the ones with no usable evidence, or keep only the passages that answer the question
 - [metronome](https://github.com/shinpr/metronome) - Claude Code plugin that catches shortcut-taking behavior and keeps Claude working step by step
 - [pr-review-skill](https://github.com/shinpr/pr-review-skill) - Gives every reviewer the same complete PR snapshot, then lets you approve findings before they are posted
 - [rashomon](https://github.com/shinpr/rashomon) - Tests whether a prompt or skill actually improves agent behavior before you ship it
