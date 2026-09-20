@@ -13,7 +13,7 @@ rather than speculation.
 
 Sharing learnings through writing.
 
-Latest: [When Better Models Make Old Agent Workflows Worse](https://www.norsica.jp/blog/when-better-models-make-old-agent-workflows-worse)
+Latest: [What Retrieval Still Hasn't Decided](https://www.norsica.jp/blog/what-retrieval-still-hasnt-decided)
 
 ### Projects
 
