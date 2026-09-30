@@ -13,7 +13,7 @@ rather than speculation.
 
 Sharing learnings through writing.
 
-Latest: [What Retrieval Still Hasn't Decided](https://www.norsica.jp/blog/what-retrieval-still-hasnt-decided)
+Latest: [The Day I Left the Team](https://www.norsica.jp/blog/the-day-i-left-the-team)
 
 ### Projects
 
