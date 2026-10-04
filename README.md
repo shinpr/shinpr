@@ -13,7 +13,7 @@ rather than speculation.
 
 Sharing learnings through writing.
 
-Latest: [The Day I Left the Team](https://www.norsica.jp/blog/the-day-i-left-the-team)
+Latest: [My AI Team Followed Three Rules. It Kept Two.](https://www.norsica.jp/blog/my-ai-team-followed-three-rules-it-kept-two)
 
 ### Projects
 
