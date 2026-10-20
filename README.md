@@ -43,7 +43,7 @@ Latest: [My AI Team Followed Three Rules. It Kept Two.](https://www.norsica.jp/b
 - [metronome](https://github.com/shinpr/metronome) - Claude Code plugin that catches shortcut-taking behavior and keeps Claude working step by step
 - [pr-review-skill](https://github.com/shinpr/pr-review-skill) - Gives every reviewer the same complete PR snapshot, then lets you approve findings before they are posted
 - [rashomon](https://github.com/shinpr/rashomon) - Tests whether a prompt or skill actually improves agent behavior before you ship it
-- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Build reusable custom agents using 10+ AI coding options, including Codex, Claude, GLM, Kimi, and OpenCode, with the model and effort tuned for each role
+- [sub-agents-skills](https://github.com/shinpr/sub-agents-skills) - Reuse the same agent definitions across coding tools, including Antigravity, Claude Code, Codex, OpenCode, and Pi.
 
 **📋 Awesome Lists**
 
