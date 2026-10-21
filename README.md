@@ -13,7 +13,7 @@ rather than speculation.
 
 Sharing learnings through writing.
 
-Latest: [My AI Team Followed Three Rules. It Kept Two.](https://www.norsica.jp/blog/my-ai-team-followed-three-rules-it-kept-two)
+Latest: [I Took the Wheel Back From My AI Team. Then I Gave It Back.](https://www.norsica.jp/blog/i-took-the-wheel-back-from-my-ai-team)
 
 ### Projects
 
