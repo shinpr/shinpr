@@ -13,7 +13,7 @@ rather than speculation.
 
 Sharing learnings through writing.
 
-Latest: [I Took the Wheel Back From My AI Team. Then I Gave It Back.](https://www.norsica.jp/blog/i-took-the-wheel-back-from-my-ai-team)
+Latest: [Read the Logs Before You Rewrite the Prompt](https://www.norsica.jp/blog/read-the-logs-before-you-rewrite-the-prompt)
 
 ### Projects
 
