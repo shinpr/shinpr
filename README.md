@@ -13,7 +13,7 @@ rather than speculation.
 
 Sharing learnings through writing.
 
-Latest: [Read the Logs Before You Rewrite the Prompt](https://www.norsica.jp/blog/read-the-logs-before-you-rewrite-the-prompt)
+Latest: [I Never Asked My AI Team to Build All of It](https://www.norsica.jp/blog/i-never-asked-my-ai-team-to-build-all-of-it)
 
 ### Projects
 
