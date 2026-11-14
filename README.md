@@ -13,7 +13,7 @@ rather than speculation.
 
 Sharing learnings through writing.
 
-Latest: [I Never Asked My AI Team to Build All of It](https://www.norsica.jp/blog/i-never-asked-my-ai-team-to-build-all-of-it)
+Latest: [I Didn't Give My AI Team Its Epics. I Gave It a Definition of One.](https://www.norsica.jp/blog/i-gave-my-ai-team-a-definition-of-an-epic)
 
 ### Projects
 
