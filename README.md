@@ -13,7 +13,7 @@ rather than speculation.
 
 Sharing learnings through writing.
 
-Latest: [I Didn't Give My AI Team Its Epics. I Gave It a Definition of One.](https://www.norsica.jp/blog/i-gave-my-ai-team-a-definition-of-an-epic)
+Latest: [Strict Boundaries, Free Path: How I Design a Software Factory](https://www.norsica.jp/blog/how-i-design-a-software-factory)
 
 ### Projects
 
