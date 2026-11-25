@@ -17,6 +17,10 @@ Latest: [Strict Boundaries, Free Path: How I Design a Software Factory](https://
 
 ### Projects
 
+**🏭 Software Factory**
+
+- [ovenspring](https://github.com/shinpr/ovenspring) - Plans sprints toward your product goal and carries each issue to a merged pull request with Claude Code, Codex, or OpenCode, asking you in Slack only for the decisions that need a person
+
 **🛠 Agentic Development Frameworks**
 
 - [claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Keeps Claude Code focused on the result you agreed on, even when complex work uncovers tempting side issues
